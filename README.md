@@ -4,7 +4,7 @@ In this project, I aim to build a robust **Convolutional Neural Network (CNN)** 
 
 ## Applications:
 1. **Image Classification and Tagging**:
-   - Our trained model can be used to automatically classify images into one of the ten predefined categories. This has applications in content moderation, organizing photo libraries, and enhancing search engines.
+   - The trained model can be used to automatically classify images into one of the ten predefined categories. This has applications in content moderation, organizing photo libraries, and enhancing search engines.
    - For example, an e-commerce platform can use our model to tag product images, making it easier for users to find relevant items.
 
 2. **Visual Search Engines**:
